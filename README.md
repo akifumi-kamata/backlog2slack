@@ -1,5 +1,5 @@
 #backlog2slack
-backlog(http://www.backlog.jp/)の更新情報をslack(https://slack.com/)にpostする連携ツールです。
+backlog( http://www.backlog.jp/ )の更新情報をslack( https://slack.com/ )にpostする連携ツールです。  
 課題の追加、課題の更新に対応しています。
 
 簡易版なので細かい部分まで配慮して実装していませんので、
