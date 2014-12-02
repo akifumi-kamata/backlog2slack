@@ -15,7 +15,7 @@ config.php
 ##使い方
 
 ###動作確認
-ブラウザで、b2s.phpをhttpリクエストすします。
+ブラウザで、b2s.phpをhttpリクエストします。
 
 ###実運用
 cronなどで定期的にb2s.phpをhttpリクエストします。
